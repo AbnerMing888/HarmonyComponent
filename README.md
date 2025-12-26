@@ -10,6 +10,7 @@ HarmonyComponent是一个鸿蒙端的组件库。
 ## 目前组件库有
 
 - 1、滑动验证组件【[点击开发](md/SLIDERREADME.md)】
+- 2、App内日志查看组件【[点击开发](md/APPLOGREADME.md)】
 
 
 ## 各组件效果
@@ -20,6 +21,15 @@ HarmonyComponent是一个鸿蒙端的组件库。
 <img src="https://loveharmony.oss-cn-beijing.aliyuncs.com/weight/slider/slider_001.gif" width="300px" />
 </p>
 
+### App内日志查看组件
+
+<p align="center">
+<img src="https://loveharmony.oss-cn-beijing.aliyuncs.com/log/log_001.png" width="150px" />
+<img src="https://loveharmony.oss-cn-beijing.aliyuncs.com/log/log_002.png" width="150px" />
+<img src="https://loveharmony.oss-cn-beijing.aliyuncs.com/log/log_003.png" width="150px" />
+<img src="https://loveharmony.oss-cn-beijing.aliyuncs.com/log/log_004.png" width="150px" />
+<img src="https://loveharmony.oss-cn-beijing.aliyuncs.com/log/log_005.jpg" width="150px" />
+</p>
 
 ## 支持Api版本
 

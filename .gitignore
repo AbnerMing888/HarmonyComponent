@@ -11,3 +11,6 @@
 **/.test
 /.appanalyzer
 /slider
+/applog
+/monitor
+/build-profile.json5

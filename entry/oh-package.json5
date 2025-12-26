@@ -6,7 +6,9 @@
   "author": "",
   "license": "",
   "dependencies": {
-    "@abner/slider": "file:./lib/slider-signed-1.0.0.har"
+    "@abner/slider": "file:./lib/slider-signed-1.0.0.har",
+    "@abner/monitor": "file:./lib/monitor-signed-1.0.0.har",
+    "@abner/app_log": "file:./lib/applog-signed-1.0.0.har"
   }
 }
 

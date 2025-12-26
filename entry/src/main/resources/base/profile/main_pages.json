@@ -1,6 +1,8 @@
 {
   "src": [
     "pages/Index",
-    "pages/SliderPage"
+    "pages/SliderPage",
+    "pages/MonitorPage",
+    "pages/AppLogPage"
   ]
 }
