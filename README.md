@@ -5,12 +5,13 @@
 <span style="font-size:12px;color:red;">扫码关注，千帆起航，共筑鸿蒙！</span>
 </p>
 
-HarmonyComponent是一个鸿蒙端的组件库。
+HarmonyComponent是一个鸿蒙端的组件库，旨在打造一个高效的，便捷的，易用的组件库大全。
 
 ## 目前组件库有
 
-- 1、滑动验证组件【[点击开发](md/SLIDERREADME.md)】
-- 2、App内日志查看组件【[点击开发](md/APPLOGREADME.md)】
+- 1、滑动验证组件【[点击查看](md/SLIDERREADME.md)】
+- 2、App内日志查看组件【[点击查看](md/APPLOGREADME.md)】
+- 3、加减数字框【[点击查看](md/NUMBERBOXREADME.md)】
 
 
 ## 各组件效果
@@ -29,6 +30,12 @@ HarmonyComponent是一个鸿蒙端的组件库。
 <img src="https://loveharmony.oss-cn-beijing.aliyuncs.com/log/log_003.png" width="150px" />
 <img src="https://loveharmony.oss-cn-beijing.aliyuncs.com/log/log_004.png" width="150px" />
 <img src="https://loveharmony.oss-cn-beijing.aliyuncs.com/log/log_005.jpg" width="150px" />
+</p>
+
+### 加减数字框组件
+
+<p align="center">
+<img src="https://loveharmony.oss-cn-beijing.aliyuncs.com/weight/number/number_001.png" width="300px" />
 </p>
 
 ## 支持Api版本

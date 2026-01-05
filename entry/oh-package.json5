@@ -7,8 +7,10 @@
   "license": "",
   "dependencies": {
     "@abner/slider": "file:./lib/slider-signed-1.0.0.har",
-    "@abner/monitor": "file:./lib/monitor-signed-1.0.0.har",
-    "@abner/app_log": "file:./lib/applog-signed-1.0.0.har"
+    "@abner/monitor": "file:../monitor",
+    "@abner/app_log": "file:../applog",
+    "@abner/stock": "file:../stock",
+    "@abner/number_box": "file:./lib/numberbox-signed-1.0.0.har"
   }
 }
 

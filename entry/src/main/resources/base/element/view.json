@@ -1,0 +1,112 @@
+{
+  "float": [
+    {
+      "name": "view_3",
+      "value": "3vp"
+    },
+    {
+      "name": "view_5",
+      "value": "5vp"
+    },
+    {
+      "name": "view_8",
+      "value": "8vp"
+    },
+    {
+      "name": "view_10",
+      "value": "10vp"
+    },
+    {
+      "name": "view_15",
+      "value": "15vp"
+    },
+    {
+      "name": "view_18",
+      "value": "18vp"
+    },
+    {
+      "name": "view_20",
+      "value": "20vp"
+    },
+    {
+      "name": "view_22",
+      "value": "22vp"
+    },
+    {
+      "name": "view_23",
+      "value": "23vp"
+    },
+    {
+      "name": "view_25",
+      "value": "25vp"
+    },
+    {
+      "name": "view_30",
+      "value": "30vp"
+    },
+    {
+      "name": "view_35",
+      "value": "35vp"
+    },
+    {
+      "name": "view_40",
+      "value": "40vp"
+    },
+    {
+      "name": "view_44",
+      "value": "44vp"
+    },
+    {
+      "name": "view_50",
+      "value": "50vp"
+    },
+    {
+      "name": "view_55",
+      "value": "55vp"
+    },
+    {
+      "name": "view_60",
+      "value": "60"
+    },
+    {
+      "name": "view_70",
+      "value": "70"
+    },
+    {
+      "name": "view_80",
+      "value": "80"
+    },
+    {
+      "name": "view_100",
+      "value": "100"
+    },
+    {
+      "name": "view_110",
+      "value": "110"
+    },
+    {
+      "name": "view_120",
+      "value": "120"
+    },
+    {
+      "name": "view_130",
+      "value": "130"
+    },
+    {
+      "name": "view_150",
+      "value": "150vp"
+    },
+    {
+      "name": "view_180",
+      "value": "180vp"
+    },
+    {
+      "name": "view_200",
+      "value": "200vp"
+    },
+    {
+      "name": "view_250",
+      "value": "280vp"
+    }
+  ]
+}

@@ -1,7 +1,19 @@
 {
   "app": {
     "signingConfigs": [
-
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "C:\\Users\\GW00261583\\.ohos\\config\\default_HarmonyComponent_goxMo2aCtPQQpkaZ8x6iDG7sC4clT_kM_KY7Vl6wuJc=.cer",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001B873FAE6F30C3BEC9CCEE7EEDEFF4A30A4E918CE5582E04FAAB75133007592C7122369AE4D7C390",
+          "profile": "C:\\Users\\GW00261583\\.ohos\\config\\default_HarmonyComponent_goxMo2aCtPQQpkaZ8x6iDG7sC4clT_kM_KY7Vl6wuJc=.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "C:\\Users\\GW00261583\\.ohos\\config\\default_HarmonyComponent_goxMo2aCtPQQpkaZ8x6iDG7sC4clT_kM_KY7Vl6wuJc=.p12",
+          "storePassword": "0000001B53B576534DD57F75604371F35FBB149389581F0DAD1FFC25BB4D5D8AB9197211624BDAC3019CFB"
+        }
+      }
     ],
     "products": [
       {
@@ -20,7 +32,7 @@
     ],
     "buildModeSet": [
       {
-        "name": "debug",
+        "name": "debug"
       },
       {
         "name": "release"
@@ -31,6 +43,66 @@
     {
       "name": "entry",
       "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "slider",
+      "srcPath": "./slider",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "applog",
+      "srcPath": "./applog",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "monitor",
+      "srcPath": "./monitor",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "numberbox",
+      "srcPath": "./numberbox",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "stock",
+      "srcPath": "./stock",
       "targets": [
         {
           "name": "default",
