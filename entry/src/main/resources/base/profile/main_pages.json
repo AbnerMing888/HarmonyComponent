@@ -2,9 +2,7 @@
   "src": [
     "pages/Index",
     "pages/SliderPage",
-    "pages/MonitorPage",
     "pages/AppLogPage",
-    "pages/StockPage",
     "pages/ListPage",
     "pages/NumberBoxPage",
     "pages/StarRatingPage"

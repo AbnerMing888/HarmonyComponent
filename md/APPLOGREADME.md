@@ -53,7 +53,7 @@ ohpm install @abner/app_log
 方式二：在需要的模块中的oh-package.json5中设置三方包依赖，配置示例如下：
 
 ```
-"dependencies": { "@abner/app_log": "^1.0.0"}
+"dependencies": { "@abner/app_log": "^1.0.1"}
 ```
 
 ## 代码使用
