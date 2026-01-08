@@ -12,6 +12,7 @@ HarmonyComponent是一个鸿蒙端的组件库，旨在打造一个高效的，�
 - 1、滑动验证组件【[点击查看](md/SLIDERREADME.md)】
 - 2、App内日志查看组件【[点击查看](md/APPLOGREADME.md)】
 - 3、加减数字框【[点击查看](md/NUMBERBOXREADME.md)】
+- 4、星级评分组件【[点击查看](md/STARRATING.md)】
 
 
 ## 各组件效果
@@ -36,6 +37,12 @@ HarmonyComponent是一个鸿蒙端的组件库，旨在打造一个高效的，�
 
 <p align="center">
 <img src="https://loveharmony.oss-cn-beijing.aliyuncs.com/weight/number/number_001.png" width="300px" />
+</p>
+
+### 星级评分组件
+
+<p align="center">
+<img src="https://loveharmony.oss-cn-beijing.aliyuncs.com/weight/rating/rating_001.png" width="300px" />
 </p>
 
 ## 支持Api版本

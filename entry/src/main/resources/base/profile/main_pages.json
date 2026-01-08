@@ -6,6 +6,7 @@
     "pages/AppLogPage",
     "pages/StockPage",
     "pages/ListPage",
-    "pages/NumberBoxPage"
+    "pages/NumberBoxPage",
+    "pages/StarRatingPage"
   ]
 }

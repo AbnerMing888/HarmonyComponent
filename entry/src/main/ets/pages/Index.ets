@@ -32,6 +32,11 @@ struct Index {
         .onClick(() => {
           this.getUIContext().getRouter().pushUrl({ url: "pages/NumberBoxPage" })
         })
+      Button("星级评分")
+        .margin({ top: 10 })
+        .onClick(() => {
+          this.getUIContext().getRouter().pushUrl({ url: "pages/StarRatingPage" })
+        })
     }
     .height('100%')
     .width('100%')
