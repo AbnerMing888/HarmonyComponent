@@ -1,19 +1,7 @@
 {
   "app": {
     "signingConfigs": [
-      {
-        "name": "default",
-        "type": "HarmonyOS",
-        "material": {
-          "certpath": "C:\\Users\\GW00261583\\.ohos\\config\\default_HarmonyComponent_goxMo2aCtPQQpkaZ8x6iDG7sC4clT_kM_KY7Vl6wuJc=.cer",
-          "keyAlias": "debugKey",
-          "keyPassword": "00000019AAD5A7E421B12512BC4A85A4BC3F0740637E1D128BFE11BF9F5A12442E9179C56FACA2DFC4",
-          "profile": "C:\\Users\\GW00261583\\.ohos\\config\\default_HarmonyComponent_goxMo2aCtPQQpkaZ8x6iDG7sC4clT_kM_KY7Vl6wuJc=.p7b",
-          "signAlg": "SHA256withECDSA",
-          "storeFile": "C:\\Users\\GW00261583\\.ohos\\config\\default_HarmonyComponent_goxMo2aCtPQQpkaZ8x6iDG7sC4clT_kM_KY7Vl6wuJc=.p12",
-          "storePassword": "000000191FA146F4095A69ACD6B1350F1B14DF74AAEDE52BC6F374599617534D7DE96E31D83D8414AB"
-        }
-      }
+
     ],
     "products": [
       {
@@ -43,66 +31,6 @@
     {
       "name": "entry",
       "srcPath": "./entry",
-      "targets": [
-        {
-          "name": "default",
-          "applyToProducts": [
-            "default"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "slider",
-      "srcPath": "./slider",
-      "targets": [
-        {
-          "name": "default",
-          "applyToProducts": [
-            "default"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "applog",
-      "srcPath": "./applog",
-      "targets": [
-        {
-          "name": "default",
-          "applyToProducts": [
-            "default"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "monitor",
-      "srcPath": "./monitor",
-      "targets": [
-        {
-          "name": "default",
-          "applyToProducts": [
-            "default"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "numberbox",
-      "srcPath": "./numberbox",
-      "targets": [
-        {
-          "name": "default",
-          "applyToProducts": [
-            "default"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "stock",
-      "srcPath": "./stock",
       "targets": [
         {
           "name": "default",

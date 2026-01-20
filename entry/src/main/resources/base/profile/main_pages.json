@@ -5,6 +5,9 @@
     "pages/AppLogPage",
     "pages/ListPage",
     "pages/NumberBoxPage",
-    "pages/StarRatingPage"
+    "pages/StarRatingPage",
+    "pages/chart/PieChartPage",
+    "pages/chart/ChartPage",
+    "pages/chart/ScatterChartPage"
   ]
 }

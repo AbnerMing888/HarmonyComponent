@@ -9,7 +9,9 @@
     "@abner/slider": "file:./lib/slider-signed-1.0.0.har",
     "@abner/rating": "file:./lib/rating-signed-1.0.0.har",
     "@abner/app_log": "file:./lib/applog-signed-1.0.1.har",
-    "@abner/number_box": "file:./lib/numberbox-signed-1.0.0.har"
+    "@abner/number_box": "file:./lib/numberbox-signed-1.0.0.har",
+    "@abner/pie": "file:./lib/pie-signed-1.0.0.har",
+    "@abner/scatter": "file:./lib/scatter-signed-1.0.0.har"
   }
 }
 

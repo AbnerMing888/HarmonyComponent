@@ -22,6 +22,12 @@ struct Index {
         .onClick(() => {
           this.getUIContext().getRouter().pushUrl({ url: "pages/StarRatingPage" })
         })
+      Button("图表组件")
+        .margin({ top: 10 })
+        .onClick(() => {
+          this.getUIContext().getRouter().pushUrl({ url: "pages/chart" +
+            "/ChartPage" })
+        })
     }
     .height('100%')
     .width('100%')

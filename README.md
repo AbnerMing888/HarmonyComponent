@@ -13,6 +13,8 @@ HarmonyComponent是一个鸿蒙端的组件库，旨在打造一个高效的，�
 - 2、App内日志查看组件【[点击查看](md/APPLOGREADME.md)】
 - 3、加减数字框【[点击查看](md/NUMBERBOXREADME.md)】
 - 4、星级评分组件【[点击查看](md/STARRATING.md)】
+- 5、饼状图组件【[点击查看](md/PIEREADME.md)】
+- 6、散点图组件【[点击查看](md/SCATTERREADME.md)】
 
 
 ## 各组件效果
@@ -43,6 +45,36 @@ HarmonyComponent是一个鸿蒙端的组件库，旨在打造一个高效的，�
 
 <p align="center">
 <img src="https://loveharmony.oss-cn-beijing.aliyuncs.com/weight/rating/rating_001.png" width="300px" />
+</p>
+
+### 饼状图组件
+
+#### 静态效果
+
+<p align="center">
+<img src="https://loveharmony.oss-cn-beijing.aliyuncs.com/weight/pie/pie_static.png" />
+</p>
+
+#### 配置属性后的动态效果
+
+<p align="center">
+<img src="https://loveharmony.oss-cn-beijing.aliyuncs.com/weight/pie/pie_01.gif" width="280px" />
+<img src="https://loveharmony.oss-cn-beijing.aliyuncs.com/weight/pie/pie_02.gif" width="280px" />
+<img src="https://loveharmony.oss-cn-beijing.aliyuncs.com/weight/pie/pie_03.gif" width="280px" />
+</p>
+
+### 散点图组件
+
+#### 静态效果
+
+<p align="center">
+<img src="https://loveharmony.oss-cn-beijing.aliyuncs.com/weight/scatter/scatter.png" width="350px"/>
+</p>
+
+#### 动态效果
+
+<p align="center">
+<img src="https://loveharmony.oss-cn-beijing.aliyuncs.com/weight/scatter/scatter.gif" width="350px" />
 </p>
 
 ## 支持Api版本
