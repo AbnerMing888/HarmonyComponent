@@ -15,7 +15,12 @@ HarmonyComponent是一个鸿蒙端的组件库，旨在打造一个高效的，�
 - 4、星级评分组件【[点击查看](md/STARRATING.md)】
 - 5、饼状图组件【[点击查看](md/PIEREADME.md)】
 - 6、散点图组件【[点击查看](md/SCATTERREADME.md)】
+- 7、折线图组件【[点击查看](md/POLYLINE.md)】
 
+
+## 支持Api版本
+
+Api适用版本：>=12
 
 ## 各组件效果
 
@@ -77,10 +82,18 @@ HarmonyComponent是一个鸿蒙端的组件库，旨在打造一个高效的，�
 <img src="https://loveharmony.oss-cn-beijing.aliyuncs.com/weight/scatter/scatter.gif" width="350px" />
 </p>
 
-## 支持Api版本
 
-Api适用版本：>=12
+### 折线图组件
 
+<p align="center">
+<img src="https://loveharmony.oss-cn-beijing.aliyuncs.com/weight/polyline/polyline_001.png" />
+</p>
+<p align="center">
+<img src="https://loveharmony.oss-cn-beijing.aliyuncs.com/weight/polyline/polyline_002.png" />
+</p>
+<p align="center">
+<img src="https://loveharmony.oss-cn-beijing.aliyuncs.com/weight/polyline/polyline.png" />
+</p>
 
 ## 咨询作者
 
@@ -91,7 +104,7 @@ Api适用版本：>=12
 ## License
 
 ```
-Copyright (C) AbnerMing, slider Open Source Project
+Copyright (C) AbnerMing, component Open Source Project
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.

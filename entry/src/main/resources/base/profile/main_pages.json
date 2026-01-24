@@ -8,6 +8,7 @@
     "pages/StarRatingPage",
     "pages/chart/PieChartPage",
     "pages/chart/ChartPage",
-    "pages/chart/ScatterChartPage"
+    "pages/chart/ScatterChartPage",
+    "pages/chart/PolylinePage"
   ]
 }

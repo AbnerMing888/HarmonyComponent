@@ -8,8 +8,8 @@ import { ActionBar } from '../../view/ActionBar'
 @Entry
 @Component
 struct ChartPage {
-  private menuArray: string[] = ["饼状图", "散点图"]
-  private routerArray: string[] = ["chart/PieChartPage", "chart/ScatterChartPage"]
+  private menuArray: string[] = ["饼状图", "散点图", "折线图"]
+  private routerArray: string[] = ["chart/PieChartPage", "chart/ScatterChartPage", "chart/PolylinePage"]
 
   build() {
     Column() {
